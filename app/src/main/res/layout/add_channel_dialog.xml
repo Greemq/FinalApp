@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="24dp"
+    android:paddingRight="24dp"
+    android:paddingLeft="24dp">
+    <TextView
+        android:text="paste link here"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/edit_text_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"/>
+</LinearLayout>

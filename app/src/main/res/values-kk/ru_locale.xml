@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_channels">Все новости</string>
+    <string name="bookmarts">Закладки</string>
+    <string name="add_channel">Добавить канал</string>
+</resources>
